@@ -1,0 +1,6 @@
+replrc
+.perlreplhist
+cache
+*~
+.#*
+tmp
